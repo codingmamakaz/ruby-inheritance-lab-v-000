@@ -25,4 +25,4 @@ some_knowledge = avi.teach
 steve.learn(some_knowledge)
 kazumi.learn(some_knowledge)
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-puts "Kazumi just learned this important knowledge: '#{kazumi.knowledge.first}' from Avi"
+puts "Kazumi just learned this important knowledge: '#{kazumi.knowledge.sample}' from Avi"
