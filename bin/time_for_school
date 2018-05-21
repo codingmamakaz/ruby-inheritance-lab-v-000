@@ -20,7 +20,6 @@ kazumi = Student.new
 kazumi.first_name = "Kazumi"
 kazumi.last_name = "Karbowski"
 
-
 some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
